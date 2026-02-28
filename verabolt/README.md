@@ -269,10 +269,3 @@ We solved these "madness" issues by engineering a **Resilient Ecosystem**:
 2. **Total Control:** Manage your license fleet with surgical precision from the Admin panel.
 3. **Future-Proof:** Scalable architecture ready to handle thousands of users and millions of sync operations.
 
----
-## 📫 Connect with the Architect
-
-* **Portfolio**: [asad-portfolio-pi.vercel.app](https://asad-portfolio-pi.vercel.app/)
-* **Status**: `SYSTEMS_OPERATIONAL` 🟢
-
----
