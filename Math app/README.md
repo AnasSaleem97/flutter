@@ -120,14 +120,7 @@ The current version does **not** include:
 | <img src="https://github.com/user-attachments/assets/759c1c38-9ad0-4bfb-b9f4-4c07991cd8c2" width="200"/> |
 
 
----
 
-## 📫 Connect with the Creator
-
-* **The Lab**: [asad-portfolio-pi.vercel.app](https://asad-portfolio-pi.vercel.app/)
-* **Status**: `CHAMP_MODE_ACTIVE` 🟢
-
----
 
 
 
