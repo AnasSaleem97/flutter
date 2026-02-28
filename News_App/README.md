@@ -106,7 +106,5 @@ Feel free to submit issues or pull requests to enhance **today_news**. Let’s k
 ## License
 This project is licensed under the MIT License – see the LICENSE file for details.
 
-## Acknowledgements
-- Built with ❤️ by **Asadullah (FA22-BSE-037)**
-- Powered by Flutter, News API, and Lottie animations
+
 
